@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "storage": "test.sqlite",
+    "host": "localhost",
+    "dialect": "sqlite",
+    "logging": "console.log"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "storage": "test.sqlite",
+    "host": "localhost",
+    "dialect": "sqlite",
+    "logging": "console.log"
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "storage": "test.sqlite",
+    "host": "localhost",
+    "dialect": "sqlite",
+    "logging": "console.log"
+  }
+}
